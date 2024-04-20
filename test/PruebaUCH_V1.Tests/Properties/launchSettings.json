@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "PruebaUCH_V1.Tests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:33371;http://localhost:33372"
+    }
+  }
+}

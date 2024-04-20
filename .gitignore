@@ -1,0 +1,40 @@
+# Directories de compilación
+**/[Bb]in/
+**/[Oo]bj/
+**/[Dd]ebug/
+**/[Rr]elease/
+
+# Archivos de configuración de Visual Studio y VS Code
+**/.vs/
+**/.vscode/
+
+# Archivos de usuario y estado de la solución
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación y paquetes
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ico
+*.log
+*.nupkg
+
+# Carpeta de paquetes NuGet
+packages/
+
+# Resharper y Rider
+_ReSharper*/
+**/.idea/
+
+# Archivos de configuración específicos de entorno
+**/appsettings.Development.json
+**/appsettings.json
+
+# Archivos temporales o de backup
+*_Backup*/
+**/Thumbs.db
+*.DS_Store
