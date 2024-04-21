@@ -32,10 +32,13 @@ PruebaUCH_V1/
 ├── src/
 │   ├── PruebaUCH_V1/
 │   │   ├── Controllers/
+│   │   ├── Enums/
+│   │   ├── Interfaces/
 │   │   ├── Models/
 │   │   ├── Data/
 │   │   ├── Migrations/
 │   │   ├── Properties/
+│   │   ├── Repositories/
 │   │   └── Startup.cs
 ├── test/
 │   └── PruebaUCH_V1.Tests/
